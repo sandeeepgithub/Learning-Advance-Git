@@ -20,3 +20,5 @@ console.log("Ammending a commit");
 console.log("another commit");
 
 console.log("Making a commit");
+
+console.log("This commit name will change with amend");
