@@ -3,4 +3,6 @@ console.log("hello world");
 
 console.log("commit one");
 
-console.log("making one more commit");
+console.log("commit 2");
+
+console.log("commit 3");
