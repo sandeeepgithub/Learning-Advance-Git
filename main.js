@@ -18,3 +18,5 @@ console.log("Will rebase later");
 console.log("Ammending a commit");
 
 console.log("another commit");
+
+console.log("Making a commit");
