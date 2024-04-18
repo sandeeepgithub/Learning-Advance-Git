@@ -9,3 +9,6 @@ console.log("commit 3");
 
 console.log("DEV-03");
 console.log("Dev-04");
+console.log("DEV-02");
+
+console.log("Making some changes");
