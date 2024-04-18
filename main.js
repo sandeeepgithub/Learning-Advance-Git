@@ -12,3 +12,7 @@ console.log("Dev-04");
 console.log("DEV-02");
 
 console.log("Making some changes");
+
+console.log("Will rebase later");
+
+console.log("Ammending a commit");
