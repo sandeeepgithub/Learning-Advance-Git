@@ -14,3 +14,5 @@ console.log("DEV-02");
 console.log("Making some changes");
 
 console.log("Will rebase later");
+
+console.log("New changes");
