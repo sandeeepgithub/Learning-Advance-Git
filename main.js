@@ -14,3 +14,9 @@ console.log("DEV-02");
 console.log("Making some changes");
 
 console.log("Will rebase later");
+
+console.log("main changes0");
+console.log("main changes1");
+console.log("main changes2");
+console.log("main changes3");
+console.log("main changes4");
